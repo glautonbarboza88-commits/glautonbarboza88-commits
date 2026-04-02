@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, eu sou o Glauton Barboza! 👋
 
-<!--
-**glautonbarboza88-commits/glautonbarboza88-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
+Sou um profissional com *21 anos de experiência em Gestão e Educação Física, atualmente em transição de carreira para a área de **Tecnologia e Análise de Dados*. 
 
-Here are some ideas to get you started:
+Moro em *Pinhais/Curitiba* e estou focado em unir minha bagagem de liderança e resolução de problemas com o poder das ferramentas modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ O que estou estudando agora:
+- *SQL* (Organização e consulta de bancos de dados)
+- *Python* (Lógica de programação e análise)
+- *Power BI* (Visualização de dados estratégica)
+
+### 📫 Vamos nos conectar?
+[Meu perfil no LinkedIn](https://www.linkedin.com/in/glauton-barboza-evangelista-33534a260/)
